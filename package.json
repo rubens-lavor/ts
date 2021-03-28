@@ -1,5 +1,5 @@
 {
-  "name": "Curso-typescript",
+  "name": "curso-typescript",
   "version": "1.0.0",
   "description": "Repositório dedicado ao estudo do typescript e suas tecnologias",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rubens-lavor/typescript/issues"
   },
-  "homepage": "https://github.com/rubens-lavor/typescript#readme"
+  "homepage": "https://github.com/rubens-lavor/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
 }
