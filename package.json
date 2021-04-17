@@ -4,7 +4,8 @@
   "description": "Repositório dedicado ao estudo do typescript e suas tecnologias",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack -w"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,10 @@
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-prettier": "^3.3.1",
     "prettier": "^2.2.1",
+    "ts-loader": "^8.1.0",
     "ts-node": "^9.1.1",
-    "typescript": "^4.2.3"
+    "typescript": "^4.2.3",
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
   }
 }
