@@ -8,7 +8,6 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias:
 
 
 ## 📂 src
----
 > 📂 01 - Tipos básicos
 
 *  01 - annotations
@@ -43,4 +42,4 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias:
 *  07 - static
 *  08 - construtor
 *  09 - abstract
-*  10 - associação
+*  10 - associação + diagrama UML
