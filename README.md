@@ -1,15 +1,13 @@
 # typescript
 Repositório dedicado ao estudo do TypeScript e suas tecnologias.
-
-## ✏️ Ementa do Curso
 - Tipos básicos
 - POO
 - Jest
 - S.O.L.I.D.
 - Padrões de projeto GOF - Design Patterns
 
-
-## 📂 src
+---
+> ## 📂 src
 
 <details><summary><b> 📂 01 - Tipos básicos</b></summary>
 
@@ -47,5 +45,34 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  08 - construtor
 *  09 - abstract
 *  10 - associação + diagrama UML
+*  11 - agregação + UML
+*  12 - composição
+*  13 - Type Alias em Classes
+*  14 - interfaces
+*  15 - exercício player
+*  16 - interface parte 2
 </details>
 
+<details><summary><b> 📂 03 - Tipos avançados</b></summary>
+
+*  01 - type guards
+*  02 - keyof e typeof
+*  03 - chaves em tipos
+*  04 - this polimorfico
+*  05 - overload funções
+*  06 - operators ES2020
+</details>
+
+<details><summary><b> 📂 04 - Generics</b></summary>
+
+*  01 - generics 1 (Introdução)
+*  02 - generics 2 (Array e Promises são generics)
+*  03 - generics 3 (Interfaces e Type Alias)
+*  04 - restrições em generics (constraints)
+*  05 - generics com classe (implementação TAD pilha)
+*  06 - generics com intersection
+*  07 - type predicate
+</details>
+
+---
+**[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**
