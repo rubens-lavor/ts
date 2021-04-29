@@ -7,9 +7,9 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 - Padrões de projeto GOF - Design Patterns
 
 ---
-> ## 📂 src
+## 📂 src
 
-> <details><summary><b> 📂 01 - Tipos básicos</b></summary>
+<details><summary><b> 📂 01 - Tipos básicos</b></summary>
 
 *  01 - annotations
 *  02 - any
@@ -33,7 +33,7 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  20 - this em funções
 </details>
 
-> <details><summary><b> 📂 02 - Classes e Interfaces - POO</b></summary>
+<details><summary><b> 📂 02 - Classes e Interfaces - POO</b></summary>
 
 *  01 - classes
 *  02 - public e private
@@ -53,7 +53,7 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  16 - interface parte 2
 </details>
 
-> <details><summary><b> 📂 03 - Tipos avançados</b></summary>
+<details><summary><b> 📂 03 - Tipos avançados</b></summary>
 
 *  01 - type guards
 *  02 - keyof e typeof
@@ -63,7 +63,7 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  06 - operators ES2020
 </details>
 
-> <details><summary><b> 📂 04 - Generics</b></summary>
+<details><summary><b> 📂 04 - Generics</b></summary>
 
 *  01 - generics 1 (Introdução)
 *  02 - generics 2 (Array e Promises são generics)
