@@ -72,6 +72,13 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  05 - generics com classe (implementação TAD pilha)
 *  06 - generics com intersection
 *  07 - type predicate
+*  08 - utility types
+*  09 - exercício
+</details>
+
+<details><summary><b> 📂 05 - Decorators</b></summary>
+
+* 01 -
 </details>
 
 ---
