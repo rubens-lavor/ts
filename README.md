@@ -15,22 +15,22 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  02 - [any](src/01%20-%20Tipos%20Básicos/02%20-%20any)
 *  03 - [void](src/01%20-%20Tipos%20Básicos/03%20-%20void)
 *  04 - [object](src/01%20-%20Tipos%20Básicos/04%20-%20object)
-*  05 - [array]
-*  06 - [tupla]
-*  07 - [null - undefined]
-*  08 - [never]
-*  09 - [enum]
-*  10 - [unknown]
-*  11 - [union types]
-*  12 - [tipos literais]
-*  13 - [type alias]
-*  14 - [intersection types]
-*  15 - [funções]
-*  16 - [strutural typing]
-*  17 - [type assertions]
-*  18 - [webpack]
-*  19 - [exercicio]
-*  20 - [this em funções]
+*  05 - [array](src/01%20-%20Tipos%20Básicos/05%20-%20array)
+*  06 - [tupla](src/01%20-%20Tipos%20Básicos/06%20-%20tupla)
+*  07 - [null - undefined](src/01%20-%20Tipos%20Básicos/07%20-%20null%20-%20undefined)
+*  08 - [never](src/01%20-%20Tipos%20Básicos/08%20-%20never)
+*  09 - [enum](src/01%20-%20Tipos%20Básicos/09%20-%20enum)
+*  10 - [unknown](src/01%20-%20Tipos%20Básicos/10%20-%20unknown)
+*  11 - [union types](src/01%20-%20Tipos%20Básicos/11%20-%20union%20types)
+*  12 - [tipos literais](src/01%20-%20Tipos%20Básicos/12%20-%20tipos%20literais)
+*  13 - [type alias](src/01%20-%20Tipos%20Básicos/13%20-%20type%20alias)
+*  14 - [intersection types](src/01%20-%20Tipos%20Básicos/14%20-%20intersection%20types)
+*  15 - [funções](src/01%20-%20Tipos%20Básicos/15%20-%20funções)
+*  16 - [strutural typing](src/01%20-%20Tipos%20Básicos/16%20-%20strutural%20typing)
+*  17 - [type assertions](src/01%20-%20Tipos%20Básicos/17%20-%20type%20assertions)
+*  18 - [webpack](src/01%20-%20Tipos%20Básicos/18%20-%20webpack)
+*  19 - [exercicio](src/01%20-%20Tipos%20Básicos/19%20-%20exercicio)
+*  20 - [this em funções](src/01%20-%20Tipos%20Básicos/20%20-%20this%20em%20funções)
 </details>
 
 <details><summary><b> 📂 02 - Classes e Interfaces - POO</b></summary>
