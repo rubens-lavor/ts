@@ -11,26 +11,26 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 
 <details><summary><b> 📂 01 - Tipos básicos</b></summary>
 
-*  01 - annotations
-*  02 - any
-*  03 - void
-*  04 - object
-*  05 - array
-*  06 - tupla
-*  07 - null - undefined
-*  08 - never
-*  09 - enum
-*  10 - unknown
-*  11 - union types
-*  12 - tipos literais
-*  13 - type alias
-*  14 - intersection types
-*  15 - funções
-*  16 - strutural typing
-*  17 - type assertions
-*  18 - webpack
-*  19 - exercicio
-*  20 - this em funções
+*  01 - [annotations](src/01%20-%20Tipos%20Básicos/01%20-%20annotations)
+*  02 - [any](src/01%20-%20Tipos%20Básicos/02%20-%20any)
+*  03 - [void](src/01%20-%20Tipos%20Básicos/03%20-%20void)
+*  04 - [object](src/01%20-%20Tipos%20Básicos/04%20-%20object)
+*  05 - [array]
+*  06 - [tupla]
+*  07 - [null - undefined]
+*  08 - [never]
+*  09 - [enum]
+*  10 - [unknown]
+*  11 - [union types]
+*  12 - [tipos literais]
+*  13 - [type alias]
+*  14 - [intersection types]
+*  15 - [funções]
+*  16 - [strutural typing]
+*  17 - [type assertions]
+*  18 - [webpack]
+*  19 - [exercicio]
+*  20 - [this em funções]
 </details>
 
 <details><summary><b> 📂 02 - Classes e Interfaces - POO</b></summary>
