@@ -1,10 +1,5 @@
 # typescript
 Repositório dedicado ao estudo do TypeScript e suas tecnologias.
-- Tipos básicos
-- POO
-- Jest
-- S.O.L.I.D.
-- Padrões de projeto GOF - Design Patterns
 
 ---
 ## 📂 src
@@ -35,11 +30,11 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 
 <details><summary><b> 📂 02 - Classes e Interfaces - POO</b></summary>
 
-*  01 - classes
-*  02 - public e private
-*  03 - herança + diagrama UML
-*  04 - super
-*  05 - protected
+*  01 - [classes](src/02%20-%20Classes%20e%20Interfaces%20POO/01%20-%20classes)
+*  02 - [public e private](src/02%20-%20Classes%20e%20Interfaces%20POO/02%20-%20public%20e%20private)
+*  03 - [herança + diagrama UML](src/02%20-%20Classes%20e%20Interfaces%20POO/03%20-%20herança%20+%20diagrama%20UML)
+*  04 - [super](./src/02%20-%20Classes%20e%20Interfaces%20POO/04%20-%20super)
+*  05 - [protected](./src/02%20-%20Classes%20e%20Interfaces%20POO/05%20-%20protected)
 *  06 - getters e setters
 *  07 - static
 *  08 - construtor
@@ -80,6 +75,13 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 
 * 01 -
 </details>
+
+---
+
+#### S.O.L.I.D
+[Repositório](https://github.com/rubens-lavor/S.O.L.I.D)
+
+
 
 ---
 **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**
