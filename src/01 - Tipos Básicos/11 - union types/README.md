@@ -15,6 +15,9 @@ console.log(add('10', '20'))
 console.log(add(10, '20'))
 
 ~~~
+---
+
+Veja que o retorno da `function add()` pode ser um `number` ou  `string`, dependendo do tipo dos parâmetros.
 
 ---
 Para todas as definições e conceitos, foi usado como base a documentação oficial do TypeScript.
