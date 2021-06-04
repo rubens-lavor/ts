@@ -35,17 +35,17 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  03 - [herança + diagrama UML](src/02%20-%20Classes%20e%20Interfaces%20POO/03%20-%20herança%20+%20diagrama%20UML)
 *  04 - [super](./src/02%20-%20Classes%20e%20Interfaces%20POO/04%20-%20super)
 *  05 - [protected](./src/02%20-%20Classes%20e%20Interfaces%20POO/05%20-%20protected)
-*  06 - getters e setters
-*  07 - static
-*  08 - construtor
-*  09 - abstract
-*  10 - associação + diagrama UML
-*  11 - agregação + UML
-*  12 - composição
-*  13 - Type Alias em Classes
-*  14 - interfaces
-*  15 - exercício player
-*  16 - interface parte 2
+*  06 - [getters e setters](./src/02%20-%20Classes%20e%20Interfaces%20POO/06%20-%20getters%20e%20setters)
+*  07 - [static](./src/02%20-%20Classes%20e%20Interfaces%20POO/07%20-%20static)
+*  08 - [construtor](./src/02%20-%20Classes%20e%20Interfaces%20POO/08%20-%20construtor%20privado)
+*  09 - [abstract](./src/02%20-%20Classes%20e%20Interfaces%20POO/09%20-%20abstract)
+*  10 - [associação + diagrama UML](./src/02%20-%20Classes%20e%20Interfaces%20POO/10%20-%20associação%20+%20diagrama%20UML)
+*  11 - [agregação + UML](./src/02%20-%20Classes%20e%20Interfaces%20POO/11%20-%20agregação%20+%20UML)
+*  12 - [composição](./src/02%20-%20Classes%20e%20Interfaces%20POO/12%20-%20composição)
+*  13 - [Type Alias em Classes](./src/02%20-%20Classes%20e%20Interfaces%20POO/13%20-%20Type%20Alias%20em%20Classes)
+*  14 - [interfaces](./src/02%20-%20Classes%20e%20Interfaces%20POO/14%20-%20interfaces)
+*  15 - [exercício player](./src/02%20-%20Classes%20e%20Interfaces%20POO/15%20-%20exercício%20player)
+*  16 - [interface parte 2](./src/02%20-%20Classes%20e%20Interfaces%20POO/16%20-%20interface%20parte%202)
 </details>
 
 <details><summary><b> 📂 03 - Tipos avançados</b></summary>
