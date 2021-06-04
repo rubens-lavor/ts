@@ -50,30 +50,39 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 
 <details><summary><b> 📂 03 - Tipos avançados</b></summary>
 
-*  01 - type guards
-*  02 - keyof e typeof
-*  03 - chaves em tipos
-*  04 - this polimorfico
-*  05 - overload funções
-*  06 - operators ES2020
+*  01 - [type guards](./src/03%20-%20Tipos%20avançados/01%20-%20type%20guards)
+*  02 - [keyof e typeof](./src/03%20-%20Tipos%20avançados/02%20-%20keyof%20e%20typeof)
+*  03 - [chaves em tipos](./src/03%20-%20Tipos%20avançados/03%20-%20chaves%20em%20tipos)
+*  04 - [this polimorfico](./src/03%20-%20Tipos%20avançados/04%20-%20this%20polimorfico)
+*  05 - [overload funções](./src/03%20-%20Tipos%20avançados/05%20-%20overload%20funções)
+*  06 - [operators ES2020](./src/03%20-%20Tipos%20avançados/06%20-%20operators%20ES2020)
 </details>
 
 <details><summary><b> 📂 04 - Generics</b></summary>
 
-*  01 - generics 1 (Introdução)
-*  02 - generics 2 (Array e Promises são generics)
-*  03 - generics 3 (Interfaces e Type Alias)
-*  04 - restrições em generics (constraints)
-*  05 - generics com classe (implementação TAD pilha)
-*  06 - generics com intersection
-*  07 - type predicate
-*  08 - utility types
-*  09 - exercício
+*  01 - [generics 1 (Introdução)](./src/04%20-%20Generics/01%20-%20generics%201)
+*  02 - [generics 2 (Array e Promises são generics)](./src/04%20-%20Generics/02%20-%20generics%202)
+*  03 - [generics 3 (Interfaces e Type Alias)](./src/04%20-%20Generics/03%20-%20generics%203)
+*  04 - [restrições em generics (constraints)](./src/04%20-%20Generics/04%20-%20restrições%20em%20generics)
+*  05 - [generics com classe (implementação TAD pilha)](./src/04%20-%20Generics/05%20-%20generics%20com%20classe%20(TAD%20pilha))
+*  06 - [generics com intersection](./src/04%20-%20Generics/06%20-%20generics%20com%20intersection)
+*  07 - [type predicate](./src/04%20-%20Generics/07%20-%20type%20predicate)
+*  08 - [utility types](./src/04%20-%20Generics/08%20-%20utility%20types)
+*  09 - [exercício](./src/04%20-%20Generics/09%20-%20exercício)
+
 </details>
 
 <details><summary><b> 📂 05 - Decorators</b></summary>
 
-* 01 -
+* 01 - [decorator class 1](./src/05%20-%20Decorators/01%20-%20decorator%20class%201)
+* 02 - [decorator class 2](./src/05%20-%20Decorators/02%20-%20decorator%20class%202)
+* 03 - [decorator factories](./src/05%20-%20Decorators/03%20-%20decorator%20factories)
+* 04 - [decorator composition](./src/05%20-%20Decorators/04%20-%20decorator%20composition)
+* 05 - [method decorator](./src/05%20-%20Decorators/05%20-%20method%20decorator)
+* 06 - [parameter decorator](./src/05%20-%20Decorators/06%20-%20parameter%20decorator)
+* 07 - [property decorator](./src/05%20-%20Decorators/07%20-%20property%20decorator)
+* 08 - [todos os decoradores](./src/05%20-%20Decorators/08%20-%20todos%20os%20decoradores)
+
 </details>
 
 ---
