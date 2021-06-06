@@ -17,7 +17,7 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 *  09 - [enum](src/01%20-%20Tipos%20Básicos/09%20-%20enum)
 *  10 - [unknown](src/01%20-%20Tipos%20Básicos/10%20-%20unknown)
 *  11 - [union types](src/01%20-%20Tipos%20Básicos/11%20-%20union%20types)
-*  12 - [tipos literais](src/01%20-%20Tipos%20Básicos/12%20-%20tipos%20literais)
+*  12 - [tipos literais](./src/01%20-%20Tipos%20Básicos/12%20-%20literal%20types)
 *  13 - [type alias](src/01%20-%20Tipos%20Básicos/13%20-%20type%20alias)
 *  14 - [intersection types](src/01%20-%20Tipos%20Básicos/14%20-%20intersection%20types)
 *  15 - [funções](src/01%20-%20Tipos%20Básicos/15%20-%20funções)
