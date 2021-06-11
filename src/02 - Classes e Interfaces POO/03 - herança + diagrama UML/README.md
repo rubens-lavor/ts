@@ -47,7 +47,12 @@ export class Cliente extends Pessoa {
 
 ## Diagrama UML
 
-![diagrama uml herança](diagrama/Herança.png)
+ <p align="center">
+
+  <img src="./diagrama/Herança.png" alt="diagrama uml herança">
+
+ </p>
+
 
 
 Para todas as definições e conceitos, foi usado como base a documentação oficial do TypeScript.
