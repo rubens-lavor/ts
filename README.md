@@ -92,7 +92,7 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 
 ---
 
-#### Disign Patterns
+#### Design Patterns
 [Repositório](https://github.com/rubens-lavor/design-patterns)
 
 ---
