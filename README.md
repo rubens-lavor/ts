@@ -90,7 +90,10 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 #### S.O.L.I.D
 [Repositório](https://github.com/rubens-lavor/S.O.L.I.D)
 
+---
 
+#### Disign Patterns
+[Repositório](https://github.com/rubens-lavor/design-patterns)
 
 ---
 **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**
