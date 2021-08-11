@@ -1,5 +1,5 @@
-# typescript
-Repositório dedicado ao estudo do TypeScript e suas tecnologias.
+# TypeScript
+Repositório dedicado ao estudo da linguagem TypeScript.
 
 ---
 ## 📂 src
@@ -96,4 +96,4 @@ Repositório dedicado ao estudo do TypeScript e suas tecnologias.
 [Repositório](https://github.com/rubens-lavor/design-patterns)
 
 ---
-**[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**
+**[Documentação oficial](https://www.typescriptlang.org/docs/handbook/intro.html)**
